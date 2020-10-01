@@ -1,4 +1,10 @@
 #include<iostream>
+#include<iostream.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<stdio.h>
+#include<string.h>
+
 using namespace std;
 int main()
 {
@@ -48,9 +54,7 @@ odd=odd+i;
 }
 i=i+1;
 }
-cout<<"Sum of "<<n<<" terms of series is="<<" "<<(odd-even);
 
-break;
 
 
 case 2:
