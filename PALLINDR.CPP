@@ -2,6 +2,12 @@
       string entered by the user is Palindrome or not.*/
 
 
+
+#include<iostream.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<stdio.h>
+#include<string.h>
 #include<iostream.h>
 #include<conio.h>
 #include<stdlib.h>
